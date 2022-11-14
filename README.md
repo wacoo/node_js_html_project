@@ -1,8 +1,8 @@
 Front End
 
-HTML, CSS, EJS 
+HTML, CSS, EJS
 
 Back End
 
-NODE JS
+NODE JS, 
 NODEMON
